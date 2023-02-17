@@ -11,7 +11,7 @@ public class AdminServiceOperations implements AdminInterface {
 	
 	public void addProfessor() {
 		
-	 System.out.println("professor added");
+	 System.out.println("professor has been added");
 	 
 	}
 	
